@@ -4,7 +4,7 @@
 Analysis Repo for Sailing. This repository has been created to perform anaylsis on different sailboats on the market.
     
 ## To-Do List:
-1. Write parsers to collect prices from sailboat sale websites
+1. Write parsers to collect prices from sailboat websites
 2. Collect prices regulary
 3. Save the prices into a cloud database
 4. Build a multivariate regression model to estimate price of a boat for a given age, size and brand.
