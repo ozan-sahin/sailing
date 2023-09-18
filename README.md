@@ -1,6 +1,8 @@
 # Sailing Project
-Analysis Repo for Sailing. This repository has been created to perform anaylsis on different sailboats on the market
+![](https://images.pexels.com/photos/4934616/pexels-photo-4934616.jpeg?auto=compress&cs=tinysrgb&w=640&h=427&dpr=1)
 
+Analysis Repo for Sailing. This repository has been created to perform anaylsis on different sailboats on the market.
+    
 ## To-Do List:
 1. Write parsers to collect prices from sailboat sale websites
 2. Collect prices regulary
