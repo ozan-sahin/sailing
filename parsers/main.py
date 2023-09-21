@@ -14,12 +14,13 @@ import parser_boat24 as boat24
 import parser_yachtall as yachtall
 import parser_bandofboats as bandofboats
 import parser_yachtworld as yachtworld
+import parser_theyachtmarket as theyachtmarket
 
 YEAR_MIN = "2010"
 PRICE_MAX = ""
 MAX_LENGTH = "25"
 
-parsers = [yachtworld, bandofboats, yachtall, boat24]
+parsers = [theyachtmarket, yachtworld, bandofboats, yachtall, boat24]
 
 # %%
 df_list = []
